@@ -1,11 +1,11 @@
 {
-  "name": "xml-crypto",
+  "name": "xml-crypto-eet",
   "version": "0.8.4",
   "description": "Xml digital signature and encryption library for Node.js",
   "engines": {
     "node": ">=0.4.0"
   },
-  "author": "Yaron Naveh (yaronn01@gmail.com, http://webservices20.blogspot.com/)",
+  "author": "Entity Black (entityblack@gmail.com)",
   "dependencies": {
     "xmldom": "=0.1.19",
     "xpath.js": ">=0.0.3"
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaronn/xml-crypto.git"
+    "url": "https://github.com/EntityB/xml-crypto.git"
   },
   "main": "./index.js",
   "directories": {
